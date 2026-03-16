@@ -61,7 +61,7 @@ G*amification Features
   -GPS tagging for environmental tasks
   -Admin dashboards for schools and teachers
 
-# Methodology / Implementation Process
+# Methodology / Implementation Process :
 
 1. Requirement Analysis
   Identify environmental topics and educational content suitable for students.
