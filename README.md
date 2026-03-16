@@ -45,21 +45,21 @@ This solution transforms environmental education from passive reading into activ
 # Technologies to be Used
 
 The platform can be developed using the following technologies:
-Frontend
-  React.js (for web interface)
-  Flutter or React Native (for mobile application)
-Backend
-  Node.js / Django for API and server logic
-Database
-  Firebase / MongoDB / PostgreSQL for storing user data, scores, and activities
-Gamification Features
-  Badge system
-  Leaderboards
-  Eco-points tracking
-Additional Features
-  QR code verification for activities
-  GPS tagging for environmental tasks
-  Admin dashboards for schools and teachers
+*Frontend
+  -React.js (for web interface)
+  -Flutter or React Native (for mobile application)
+*Backend
+  -Node.js / Django for API and server logic
+*Database
+  -Firebase / MongoDB / PostgreSQL for storing user data, scores, and activities
+G*amification Features
+  -Badge system
+  -Leaderboards
+  -Eco-points tracking
+*Additional Features
+  -QR code verification for activities
+  -GPS tagging for environmental tasks
+  -Admin dashboards for schools and teachers
 
 # Methodology / Implementation Process
 
